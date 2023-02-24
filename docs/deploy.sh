@@ -15,6 +15,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
-git push -f git@https://github.com/kryane/blogs.git
+git push https://github.com/kryane/blogs.git
 
 cd -
